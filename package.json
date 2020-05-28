@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/devsprite/u-reusable-code#readme",
   "dependencies": {
+    "@types/node": "^14.0.5",
     "concurrently": "^5.2.0",
     "nodemon": "^2.0.4"
   }
